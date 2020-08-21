@@ -1,0 +1,3 @@
+Source URL,Target URL,Actual URL, Response Code, Result
+http://seomoz.org/,https://moz.com/,null,403,false
+http://www.rollbyjusttires.com/,http://www.rollbygoodyear.com/,https://www.rollbyjusttires.com/,301,true
